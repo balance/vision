@@ -1,0 +1,20 @@
+2024-11-08 10:57:46,940 - INFO - No image uploaded by the user.
+2024-11-08 10:57:50,543 - INFO - User uploaded an image successfully.
+2024-11-08 10:57:50,544 - INFO - No question provided by the user.
+2024-11-08 10:57:59,186 - INFO - User uploaded an image successfully.
+2024-11-08 10:57:59,186 - INFO - User asked a question: Is there brocoli on this dish?
+2024-11-08 10:57:59,187 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-08 10:58:10,179 - INFO - User uploaded an image successfully.
+2024-11-08 10:58:10,180 - INFO - User asked a question: Is there brocoli on this dish?
+2024-11-08 10:58:10,181 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-08 10:58:42,305 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-08 10:58:42,306 - INFO - Successfully received response from ollama model.
+2024-11-08 10:58:42,307 - INFO - Temporary image file deleted successfully.
+2024-11-08 10:58:44,504 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-08 10:58:44,506 - INFO - Successfully received response from ollama model.
+2024-11-08 10:59:01,372 - INFO - User uploaded an image successfully.
+2024-11-08 10:59:01,373 - INFO - User asked a question: Is there brocoli on this dish?
+2024-11-08 10:59:01,374 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-08 10:59:04,016 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-08 10:59:04,017 - INFO - Successfully received response from ollama model.
+2024-11-08 10:59:04,018 - INFO - Temporary image file deleted successfully.
