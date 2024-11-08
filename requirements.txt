@@ -1,4 +1,3 @@
-streamlit
 ollama
 Pillow
 requests
