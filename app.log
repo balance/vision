@@ -18,3 +18,631 @@
 2024-11-08 10:59:04,016 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
 2024-11-08 10:59:04,017 - INFO - Successfully received response from ollama model.
 2024-11-08 10:59:04,018 - INFO - Temporary image file deleted successfully.
+2024-11-08 11:00:40,145 - INFO - No image uploaded by the user.
+2024-11-08 11:17:11,662 - INFO - No image uploaded by the user.
+2024-11-08 11:17:17,308 - INFO - User uploaded an image successfully.
+2024-11-08 11:17:17,308 - INFO - No question provided by the user.
+2024-11-08 11:17:43,621 - INFO - User uploaded an image successfully.
+2024-11-08 11:17:43,621 - INFO - User asked a question: Is there sweet potato in this dish?
+2024-11-08 11:17:43,625 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-08 11:18:22,212 - INFO - User uploaded an image successfully.
+2024-11-08 11:18:22,213 - INFO - User asked a question: Is there sweet potato in this dish?
+2024-11-08 11:18:22,216 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-08 11:18:25,739 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-08 11:18:25,741 - INFO - Successfully received response from ollama model.
+2024-11-08 11:18:25,743 - INFO - Temporary image file deleted successfully.
+2024-11-08 11:18:28,144 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-08 11:18:28,146 - INFO - Successfully received response from ollama model.
+2024-11-08 11:18:43,852 - INFO - User uploaded an image successfully.
+2024-11-08 11:18:43,853 - INFO - User asked a question: Is there sweet potato in this dish?
+2024-11-08 11:18:43,856 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-08 11:18:48,130 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-08 11:18:48,130 - INFO - Successfully received response from ollama model.
+2024-11-08 11:18:48,132 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:01:15,675 - INFO - No image uploaded by the user.
+2024-11-12 09:15:20,399 - INFO - User uploaded an image successfully.
+2024-11-12 09:15:20,399 - INFO - No question provided by the user.
+2024-11-12 09:15:32,874 - INFO - User uploaded an image successfully.
+2024-11-12 09:15:32,874 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:15:32,875 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:15:40,839 - INFO - User uploaded an image successfully.
+2024-11-12 09:15:40,839 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:15:40,840 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:15:44,398 - INFO - User uploaded an image successfully.
+2024-11-12 09:15:44,398 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:15:44,399 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:16:15,127 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:16:15,129 - INFO - Successfully received response from ollama model.
+2024-11-12 09:16:15,130 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:16:16,315 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:16:16,317 - INFO - Successfully received response from ollama model.
+2024-11-12 09:16:18,234 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:16:18,237 - INFO - Successfully received response from ollama model.
+2024-11-12 09:16:28,083 - INFO - User uploaded an image successfully.
+2024-11-12 09:16:28,083 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:16:28,084 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:16:29,163 - INFO - User uploaded an image successfully.
+2024-11-12 09:16:29,164 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:16:29,165 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:16:30,583 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:16:30,584 - INFO - Successfully received response from ollama model.
+2024-11-12 09:16:30,585 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:16:31,743 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:16:31,744 - INFO - Successfully received response from ollama model.
+2024-11-12 09:18:26,775 - INFO - User uploaded an image successfully.
+2024-11-12 09:18:26,775 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:18:26,776 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:18:32,930 - INFO - User uploaded an image successfully.
+2024-11-12 09:18:32,930 - INFO - User asked a question: Is there kale on this plate?
+2024-11-12 09:18:32,931 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:18:33,647 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:18:33,648 - INFO - Successfully received response from ollama model.
+2024-11-12 09:18:33,649 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:18:34,901 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:18:34,902 - INFO - Successfully received response from ollama model.
+2024-11-12 09:18:43,852 - INFO - No image uploaded by the user.
+2024-11-12 09:18:47,852 - INFO - User uploaded an image successfully.
+2024-11-12 09:18:47,852 - INFO - No question provided by the user.
+2024-11-12 09:19:04,729 - INFO - User uploaded an image successfully.
+2024-11-12 09:19:04,730 - INFO - User asked a question: What is this dish called?
+2024-11-12 09:19:04,732 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:19:30,883 - INFO - User uploaded an image successfully.
+2024-11-12 09:19:30,883 - INFO - User asked a question: What is this dish called?
+2024-11-12 09:19:30,884 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:19:33,934 - INFO - User uploaded an image successfully.
+2024-11-12 09:19:33,935 - INFO - User asked a question: What is this dish called?
+2024-11-12 09:19:33,935 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:19:41,254 - INFO - User uploaded an image successfully.
+2024-11-12 09:19:41,255 - INFO - User asked a question: What is this dish called?
+2024-11-12 09:19:41,256 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:19:42,688 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:19:42,690 - INFO - Successfully received response from ollama model.
+2024-11-12 09:19:42,692 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:19:45,522 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:19:45,523 - INFO - Successfully received response from ollama model.
+2024-11-12 09:19:47,811 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:19:47,812 - INFO - Successfully received response from ollama model.
+2024-11-12 09:19:49,346 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:19:49,347 - INFO - Successfully received response from ollama model.
+2024-11-12 09:20:10,396 - INFO - User uploaded an image successfully.
+2024-11-12 09:20:10,397 - INFO - User asked a question: What is this dish called?
+2024-11-12 09:20:10,398 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:20:17,232 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:20:17,233 - INFO - Successfully received response from ollama model.
+2024-11-12 09:20:17,234 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:21:09,229 - INFO - User uploaded an image successfully.
+2024-11-12 09:21:09,229 - INFO - User asked a question: What is this dish called?
+2024-11-12 09:21:09,230 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:21:12,356 - INFO - No image uploaded by the user.
+2024-11-12 09:21:15,939 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:21:15,940 - INFO - Successfully received response from ollama model.
+2024-11-12 09:21:15,941 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:21:21,283 - INFO - User uploaded an image successfully.
+2024-11-12 09:21:21,283 - INFO - No question provided by the user.
+2024-11-12 09:21:31,846 - INFO - User uploaded an image successfully.
+2024-11-12 09:21:31,846 - INFO - User asked a question: Is there beef on this dish?
+2024-11-12 09:21:31,850 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:22:06,600 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:22:06,602 - INFO - Successfully received response from ollama model.
+2024-11-12 09:22:06,606 - INFO - Temporary image file deleted successfully.
+2024-11-12 09:22:20,209 - INFO - User uploaded an image successfully.
+2024-11-12 09:22:20,209 - INFO - User asked a question: Is there beef on this dish?
+2024-11-12 09:22:20,212 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 09:22:23,949 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 09:22:23,951 - INFO - Successfully received response from ollama model.
+2024-11-12 09:22:23,953 - INFO - Temporary image file deleted successfully.
+2024-11-12 10:35:00,461 - INFO - No image uploaded by the user.
+2024-11-12 10:35:37,327 - INFO - User uploaded an image successfully.
+2024-11-12 10:35:37,328 - INFO - No question provided by the user.
+2024-11-12 10:35:56,195 - INFO - User uploaded an image successfully.
+2024-11-12 10:35:56,195 - INFO - User asked a question: What type of seafood is in this dish?
+2024-11-12 10:35:56,196 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 10:36:39,064 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 10:36:39,065 - INFO - Successfully received response from ollama model.
+2024-11-12 10:36:39,067 - INFO - Temporary image file deleted successfully.
+2024-11-12 10:36:43,350 - INFO - User uploaded an image successfully.
+2024-11-12 10:36:43,351 - INFO - User asked a question: What type of seafood is in this dish?
+2024-11-12 10:36:43,352 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 10:36:46,733 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 10:36:46,734 - INFO - Successfully received response from ollama model.
+2024-11-12 10:36:46,735 - INFO - Temporary image file deleted successfully.
+2024-11-12 10:41:26,763 - INFO - No image uploaded by the user.
+2024-11-12 10:42:44,573 - INFO - User uploaded an image successfully.
+2024-11-12 10:42:44,574 - INFO - No question provided by the user.
+2024-11-12 10:43:49,040 - INFO - User uploaded an image successfully.
+2024-11-12 10:43:49,040 - INFO - User asked a question: Estimate the number of calories on this dish
+2024-11-12 10:43:49,041 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 10:44:30,808 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 10:44:30,808 - INFO - Successfully received response from ollama model.
+2024-11-12 10:44:30,811 - INFO - Temporary image file deleted successfully.
+2024-11-12 10:44:47,288 - INFO - User uploaded an image successfully.
+2024-11-12 10:44:47,288 - INFO - User asked a question: Estimate the number of calories on this dish
+2024-11-12 10:44:47,289 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 10:44:58,698 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 10:44:58,699 - INFO - Successfully received response from ollama model.
+2024-11-12 10:44:58,701 - INFO - Temporary image file deleted successfully.
+2024-11-12 10:55:15,848 - INFO - No image uploaded by the user.
+2024-11-12 10:56:14,074 - INFO - User uploaded an image successfully.
+2024-11-12 10:56:14,075 - INFO - No question provided by the user.
+2024-11-12 10:56:34,488 - INFO - User uploaded an image successfully.
+2024-11-12 10:56:34,489 - INFO - User asked a question: What are the ingredients in this dish?
+2024-11-12 10:56:34,491 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 10:57:10,948 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 10:57:10,949 - INFO - Successfully received response from ollama model.
+2024-11-12 10:57:10,951 - INFO - Temporary image file deleted successfully.
+2024-11-12 10:57:28,922 - INFO - User uploaded an image successfully.
+2024-11-12 10:57:28,922 - INFO - User asked a question: What are the ingredients in this dish?
+2024-11-12 10:57:28,923 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 10:57:32,035 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 10:57:32,036 - INFO - Successfully received response from ollama model.
+2024-11-12 10:57:32,039 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:04:27,489 - INFO - No image uploaded by the user.
+2024-11-12 11:04:45,878 - INFO - User uploaded an image successfully.
+2024-11-12 11:04:45,878 - INFO - No question provided by the user.
+2024-11-12 11:05:00,040 - INFO - User uploaded an image successfully.
+2024-11-12 11:05:00,040 - INFO - User asked a question: Que tipo de plato es este?
+2024-11-12 11:05:00,042 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:05:37,258 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:05:37,259 - INFO - Successfully received response from ollama model.
+2024-11-12 11:05:37,262 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:05:55,837 - INFO - User uploaded an image successfully.
+2024-11-12 11:05:55,837 - INFO - User asked a question: Que tipo de plato es este?
+2024-11-12 11:05:55,839 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:05:59,028 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:05:59,030 - INFO - Successfully received response from ollama model.
+2024-11-12 11:05:59,034 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:06:22,353 - INFO - User uploaded an image successfully.
+2024-11-12 11:06:22,353 - INFO - User asked a question: Que tipo de plato es este?
+2024-11-12 11:06:22,354 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:06:28,429 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:06:28,440 - INFO - Successfully received response from ollama model.
+2024-11-12 11:06:28,443 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:07:37,796 - INFO - User uploaded an image successfully.
+2024-11-12 11:07:37,796 - INFO - User asked a question: Que tipo de plato es este?
+2024-11-12 11:07:37,799 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:08:04,746 - INFO - No image uploaded by the user.
+2024-11-12 11:08:08,047 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:08:08,050 - INFO - Successfully received response from ollama model.
+2024-11-12 11:08:08,051 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:08:42,383 - INFO - User uploaded an image successfully.
+2024-11-12 11:08:42,384 - INFO - No question provided by the user.
+2024-11-12 11:08:51,280 - INFO - User uploaded an image successfully.
+2024-11-12 11:08:51,280 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:08:51,282 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:09:21,530 - INFO - User uploaded an image successfully.
+2024-11-12 11:09:21,531 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:09:21,532 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:09:24,029 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:09:24,030 - INFO - Successfully received response from ollama model.
+2024-11-12 11:09:24,031 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:09:25,866 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:09:25,867 - INFO - Successfully received response from ollama model.
+2024-11-12 11:09:41,609 - INFO - User uploaded an image successfully.
+2024-11-12 11:09:41,609 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:09:41,611 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:09:43,744 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:09:43,745 - INFO - Successfully received response from ollama model.
+2024-11-12 11:09:43,748 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:09:47,778 - INFO - User uploaded an image successfully.
+2024-11-12 11:09:47,778 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:09:47,785 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:09:50,048 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:09:50,048 - INFO - Successfully received response from ollama model.
+2024-11-12 11:09:50,052 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:09:51,488 - INFO - User uploaded an image successfully.
+2024-11-12 11:09:51,489 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:09:51,490 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:09:52,582 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:09:52,583 - INFO - Successfully received response from ollama model.
+2024-11-12 11:09:52,585 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:11:24,942 - INFO - User uploaded an image successfully.
+2024-11-12 11:11:24,942 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:11:24,943 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:11:26,314 - INFO - User uploaded an image successfully.
+2024-11-12 11:11:26,314 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:11:26,315 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:11:26,507 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:11:26,508 - INFO - Successfully received response from ollama model.
+2024-11-12 11:11:26,509 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:11:27,159 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:11:27,160 - INFO - Successfully received response from ollama model.
+2024-11-12 11:11:35,237 - INFO - User uploaded an image successfully.
+2024-11-12 11:11:35,237 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:11:35,239 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:11:36,011 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:11:36,012 - INFO - Successfully received response from ollama model.
+2024-11-12 11:11:36,015 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:11:37,025 - INFO - User uploaded an image successfully.
+2024-11-12 11:11:37,026 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:11:37,028 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:11:37,640 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:11:37,641 - INFO - Successfully received response from ollama model.
+2024-11-12 11:11:37,643 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:14:15,501 - INFO - User uploaded an image successfully.
+2024-11-12 11:14:15,501 - INFO - User asked a question: Cual es el nombre de este jugador?
+2024-11-12 11:14:15,503 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:14:16,581 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:14:16,582 - INFO - Successfully received response from ollama model.
+2024-11-12 11:14:16,583 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:14:17,312 - INFO - No image uploaded by the user.
+2024-11-12 11:14:25,193 - INFO - User uploaded an image successfully.
+2024-11-12 11:14:25,193 - INFO - No question provided by the user.
+2024-11-12 11:14:36,444 - INFO - User uploaded an image successfully.
+2024-11-12 11:14:36,444 - INFO - User asked a question: Que tipo de mariscos hay en este plato?
+2024-11-12 11:14:36,445 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:14:44,222 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:14:44,223 - INFO - Successfully received response from ollama model.
+2024-11-12 11:14:44,226 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:14:50,601 - INFO - User uploaded an image successfully.
+2024-11-12 11:14:50,601 - INFO - User asked a question: Que tipo de mariscos hay en este plato?
+2024-11-12 11:14:50,602 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:14:57,698 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:14:57,700 - INFO - Successfully received response from ollama model.
+2024-11-12 11:14:57,706 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:19:02,212 - INFO - No image uploaded by the user.
+2024-11-12 11:19:10,425 - INFO - User uploaded an image successfully.
+2024-11-12 11:19:10,426 - INFO - No question provided by the user.
+2024-11-12 11:19:18,083 - INFO - User uploaded an image successfully.
+2024-11-12 11:19:18,083 - INFO - User asked a question: How many calories in this dish?
+2024-11-12 11:19:18,085 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:19:25,260 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:19:25,261 - INFO - Successfully received response from ollama model.
+2024-11-12 11:19:25,264 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:19:32,867 - INFO - User uploaded an image successfully.
+2024-11-12 11:19:32,867 - INFO - User asked a question: How many calories in this dish?
+2024-11-12 11:19:32,870 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:19:41,790 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:19:41,792 - INFO - Successfully received response from ollama model.
+2024-11-12 11:19:41,796 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:22:39,934 - INFO - No image uploaded by the user.
+2024-11-12 11:22:43,587 - INFO - User uploaded an image successfully.
+2024-11-12 11:22:43,588 - INFO - No question provided by the user.
+2024-11-12 11:22:48,877 - INFO - User uploaded an image successfully.
+2024-11-12 11:22:48,877 - INFO - User asked a question: How many shells?
+2024-11-12 11:22:48,879 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:22:51,587 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:22:51,588 - INFO - Successfully received response from ollama model.
+2024-11-12 11:22:51,594 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:22:56,301 - INFO - User uploaded an image successfully.
+2024-11-12 11:22:56,301 - INFO - User asked a question: How many shells?
+2024-11-12 11:22:56,303 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:22:58,144 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:22:58,144 - INFO - Successfully received response from ollama model.
+2024-11-12 11:22:58,145 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:23:43,524 - INFO - User uploaded an image successfully.
+2024-11-12 11:23:43,531 - INFO - User asked a question: How many shells?
+2024-11-12 11:23:43,536 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:23:45,507 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:23:45,509 - INFO - Successfully received response from ollama model.
+2024-11-12 11:23:45,510 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:24:01,398 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-10256' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /Users/josegosende/webroot/AI/playground/ollama/vision/.venv/lib/python3.12/site-packages/tornado/websocket.py:1086> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/Users/josegosende/webroot/AI/playground/ollama/vision/.venv/lib/python3.12/site-packages/tornado/websocket.py", line 1088, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/josegosende/webroot/AI/playground/ollama/vision/.venv/lib/python3.12/site-packages/tornado/websocket.py", line 1090, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+2024-11-12 11:24:05,487 - INFO - No image uploaded by the user.
+2024-11-12 11:24:09,419 - INFO - User uploaded an image successfully.
+2024-11-12 11:24:09,419 - INFO - No question provided by the user.
+2024-11-12 11:24:16,088 - INFO - User uploaded an image successfully.
+2024-11-12 11:24:16,088 - INFO - User asked a question: How many shells are there?
+2024-11-12 11:24:16,090 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:24:18,981 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:24:18,982 - INFO - Successfully received response from ollama model.
+2024-11-12 11:24:18,983 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:24:26,550 - INFO - User uploaded an image successfully.
+2024-11-12 11:24:26,551 - INFO - User asked a question: How many shells are there?
+2024-11-12 11:24:26,552 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:24:28,325 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:24:28,326 - INFO - Successfully received response from ollama model.
+2024-11-12 11:24:28,326 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:25:07,719 - INFO - User uploaded an image successfully.
+2024-11-12 11:25:07,719 - INFO - User asked a question: How many shells are there?
+2024-11-12 11:25:07,720 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:25:11,500 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:25:11,502 - INFO - Successfully received response from ollama model.
+2024-11-12 11:25:11,505 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:26:37,008 - INFO - User uploaded an image successfully.
+2024-11-12 11:26:37,009 - INFO - User asked a question: How many shells are there?
+2024-11-12 11:26:37,010 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:26:39,185 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:26:39,185 - INFO - Successfully received response from ollama model.
+2024-11-12 11:26:39,186 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:26:45,759 - INFO - User uploaded an image successfully.
+2024-11-12 11:26:45,759 - INFO - User asked a question: How many shells are there?
+2024-11-12 11:26:45,761 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:26:46,595 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:26:46,596 - INFO - Successfully received response from ollama model.
+2024-11-12 11:26:46,598 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:26:46,733 - INFO - No image uploaded by the user.
+2024-11-12 11:26:50,312 - INFO - User uploaded an image successfully.
+2024-11-12 11:26:50,313 - INFO - No question provided by the user.
+2024-11-12 11:26:54,820 - INFO - User uploaded an image successfully.
+2024-11-12 11:26:54,821 - INFO - User asked a question: How many shells?
+2024-11-12 11:26:54,822 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:26:58,115 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:26:58,116 - INFO - Successfully received response from ollama model.
+2024-11-12 11:26:58,120 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:27:15,979 - INFO - User uploaded an image successfully.
+2024-11-12 11:27:15,979 - INFO - User asked a question: How many shells?
+2024-11-12 11:27:15,981 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:27:16,857 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:27:16,858 - INFO - Successfully received response from ollama model.
+2024-11-12 11:27:16,860 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:27:33,788 - INFO - No image uploaded by the user.
+2024-11-12 11:27:37,184 - INFO - User uploaded an image successfully.
+2024-11-12 11:27:37,184 - INFO - No question provided by the user.
+2024-11-12 11:27:42,414 - INFO - User uploaded an image successfully.
+2024-11-12 11:27:42,415 - INFO - User asked a question: How many shells?
+2024-11-12 11:27:42,417 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:27:43,893 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:27:43,894 - INFO - Successfully received response from ollama model.
+2024-11-12 11:27:43,898 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:28:09,356 - INFO - User uploaded an image successfully.
+2024-11-12 11:28:09,357 - INFO - User asked a question: How many shells?
+2024-11-12 11:28:09,359 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:28:11,326 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:28:11,327 - INFO - Successfully received response from ollama model.
+2024-11-12 11:28:11,330 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:28:39,460 - INFO - User uploaded an image successfully.
+2024-11-12 11:28:39,460 - INFO - User asked a question: How many shells?
+2024-11-12 11:28:39,462 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:28:41,046 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:28:41,050 - INFO - Successfully received response from ollama model.
+2024-11-12 11:28:41,052 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:28:56,545 - INFO - User uploaded an image successfully.
+2024-11-12 11:28:56,545 - INFO - User asked a question: How many shells?
+2024-11-12 11:28:56,547 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:28:59,844 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:28:59,847 - INFO - Successfully received response from ollama model.
+2024-11-12 11:28:59,849 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:29:30,866 - INFO - User uploaded an image successfully.
+2024-11-12 11:29:30,866 - INFO - User asked a question: How many shells?
+2024-11-12 11:29:30,867 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:29:32,621 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:29:32,621 - INFO - Successfully received response from ollama model.
+2024-11-12 11:29:32,622 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:31:58,837 - INFO - User uploaded an image successfully.
+2024-11-12 11:31:58,837 - INFO - User asked a question: How many shells are there?
+2024-11-12 11:31:58,838 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:32:01,719 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:32:01,720 - INFO - Successfully received response from ollama model.
+2024-11-12 11:32:01,722 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:35:18,345 - INFO - No image uploaded by the user.
+2024-11-12 11:35:21,826 - INFO - User uploaded an image successfully.
+2024-11-12 11:35:21,827 - INFO - No question provided by the user.
+2024-11-12 11:35:26,063 - INFO - User uploaded an image successfully.
+2024-11-12 11:35:26,064 - INFO - User asked a question: How many shells?
+2024-11-12 11:35:26,065 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:35:28,309 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:35:28,309 - INFO - Successfully received response from ollama model.
+2024-11-12 11:35:28,309 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:35:33,723 - INFO - User uploaded an image successfully.
+2024-11-12 11:35:33,723 - INFO - User asked a question: How many shells?
+2024-11-12 11:35:33,725 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:35:35,215 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:35:35,216 - INFO - Successfully received response from ollama model.
+2024-11-12 11:35:35,216 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:35:53,579 - INFO - User uploaded an image successfully.
+2024-11-12 11:35:53,580 - INFO - User asked a question: How many shells?
+2024-11-12 11:35:53,581 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:35:56,142 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:35:56,143 - INFO - Successfully received response from ollama model.
+2024-11-12 11:35:56,145 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:35:57,497 - INFO - No image uploaded by the user.
+2024-11-12 11:36:00,653 - INFO - User uploaded an image successfully.
+2024-11-12 11:36:00,654 - INFO - No question provided by the user.
+2024-11-12 11:36:04,679 - INFO - User uploaded an image successfully.
+2024-11-12 11:36:04,679 - INFO - User asked a question: How many shells?
+2024-11-12 11:36:04,681 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:36:05,598 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:36:05,599 - INFO - Successfully received response from ollama model.
+2024-11-12 11:36:05,602 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:36:14,197 - INFO - User uploaded an image successfully.
+2024-11-12 11:36:14,197 - INFO - User asked a question: How many shells?
+2024-11-12 11:36:14,199 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:36:16,830 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:36:16,830 - INFO - Successfully received response from ollama model.
+2024-11-12 11:36:16,831 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:36:30,044 - INFO - User uploaded an image successfully.
+2024-11-12 11:36:30,044 - INFO - User asked a question: How many shells?
+2024-11-12 11:36:30,044 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:36:33,060 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:36:33,062 - INFO - Successfully received response from ollama model.
+2024-11-12 11:36:33,066 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:36:53,926 - INFO - No image uploaded by the user.
+2024-11-12 11:36:57,124 - INFO - User uploaded an image successfully.
+2024-11-12 11:36:57,125 - INFO - No question provided by the user.
+2024-11-12 11:37:02,075 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:02,076 - INFO - User asked a question: How many shells?
+2024-11-12 11:37:02,078 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:37:03,863 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:37:03,864 - INFO - Successfully received response from ollama model.
+2024-11-12 11:37:03,868 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:37:15,211 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:15,212 - INFO - User asked a question: How many shells?
+2024-11-12 11:37:15,239 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:37:18,323 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:37:18,323 - INFO - Successfully received response from ollama model.
+2024-11-12 11:37:18,324 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:37:26,425 - INFO - No image uploaded by the user.
+2024-11-12 11:37:30,047 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:30,048 - INFO - No question provided by the user.
+2024-11-12 11:37:34,636 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:34,636 - INFO - User asked a question: How many shells?
+2024-11-12 11:37:34,638 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:37:38,200 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:37:38,200 - INFO - Successfully received response from ollama model.
+2024-11-12 11:37:38,205 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:37:40,997 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:40,997 - INFO - User asked a question: How many shells?
+2024-11-12 11:37:40,998 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:37:42,904 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:37:42,906 - INFO - Successfully received response from ollama model.
+2024-11-12 11:37:42,911 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:37:46,488 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:46,488 - INFO - User asked a question: How many shells?
+2024-11-12 11:37:46,529 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:37:48,185 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:37:48,186 - INFO - Successfully received response from ollama model.
+2024-11-12 11:37:48,189 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:37:55,242 - INFO - User uploaded an image successfully.
+2024-11-12 11:37:55,243 - INFO - User asked a question: How many shells?
+2024-11-12 11:37:55,244 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:37:57,312 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:37:57,313 - INFO - Successfully received response from ollama model.
+2024-11-12 11:37:57,315 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:38:24,199 - INFO - No image uploaded by the user.
+2024-11-12 11:38:27,682 - INFO - User uploaded an image successfully.
+2024-11-12 11:38:27,682 - INFO - No question provided by the user.
+2024-11-12 11:38:31,317 - INFO - User uploaded an image successfully.
+2024-11-12 11:38:31,317 - INFO - User asked a question: How many shells?
+2024-11-12 11:38:31,319 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:38:32,627 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:38:32,628 - INFO - Successfully received response from ollama model.
+2024-11-12 11:38:32,628 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:38:34,120 - INFO - User uploaded an image successfully.
+2024-11-12 11:38:34,120 - INFO - User asked a question: How many shells?
+2024-11-12 11:38:34,122 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:38:36,711 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:38:36,712 - INFO - Successfully received response from ollama model.
+2024-11-12 11:38:36,713 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:38:50,283 - INFO - No image uploaded by the user.
+2024-11-12 11:38:54,604 - INFO - User uploaded an image successfully.
+2024-11-12 11:38:54,604 - INFO - No question provided by the user.
+2024-11-12 11:38:58,234 - INFO - User uploaded an image successfully.
+2024-11-12 11:38:58,234 - INFO - User asked a question: How many shells?
+2024-11-12 11:38:58,236 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:39:00,689 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:39:00,690 - INFO - Successfully received response from ollama model.
+2024-11-12 11:39:00,693 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:39:04,822 - INFO - User uploaded an image successfully.
+2024-11-12 11:39:04,822 - INFO - User asked a question: How many shells?
+2024-11-12 11:39:04,824 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:39:07,777 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:39:07,779 - INFO - Successfully received response from ollama model.
+2024-11-12 11:39:07,782 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:39:28,114 - INFO - User uploaded an image successfully.
+2024-11-12 11:39:28,114 - INFO - User asked a question: How many shells?
+2024-11-12 11:39:28,115 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:39:30,167 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:39:30,168 - INFO - Successfully received response from ollama model.
+2024-11-12 11:39:30,170 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:40:39,379 - INFO - No image uploaded by the user.
+2024-11-12 11:40:51,735 - INFO - User uploaded an image successfully.
+2024-11-12 11:40:51,736 - INFO - No question provided by the user.
+2024-11-12 11:40:58,978 - INFO - User uploaded an image successfully.
+2024-11-12 11:40:58,978 - INFO - User asked a question: How many calories are in this dish?
+2024-11-12 11:40:58,980 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:41:02,299 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:41:02,300 - INFO - Successfully received response from ollama model.
+2024-11-12 11:41:02,301 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:41:14,293 - INFO - User uploaded an image successfully.
+2024-11-12 11:41:14,294 - INFO - User asked a question: How many calories are in this dish?
+2024-11-12 11:41:14,295 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:41:16,217 - INFO - No image uploaded by the user.
+2024-11-12 11:41:26,042 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:41:26,043 - INFO - Successfully received response from ollama model.
+2024-11-12 11:41:26,045 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:41:51,893 - INFO - User uploaded an image successfully.
+2024-11-12 11:41:51,894 - INFO - No question provided by the user.
+2024-11-12 11:42:08,493 - INFO - User uploaded an image successfully.
+2024-11-12 11:42:08,493 - INFO - User asked a question: Can you tell me how many calories are in this dish?
+2024-11-12 11:42:08,494 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:42:16,541 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:42:16,542 - INFO - Successfully received response from ollama model.
+2024-11-12 11:42:16,544 - INFO - Temporary image file deleted successfully.
+2024-11-12 11:42:47,024 - INFO - User uploaded an image successfully.
+2024-11-12 11:42:47,025 - INFO - User asked a question: Can you tell me how many calories are in this dish?
+2024-11-12 11:42:47,026 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 11:42:53,791 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 11:42:53,792 - INFO - Successfully received response from ollama model.
+2024-11-12 11:42:53,794 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:28:57,622 - INFO - No image uploaded by the user.
+2024-11-12 14:32:07,045 - INFO - No image uploaded by the user.
+2024-11-12 14:32:11,107 - INFO - User uploaded an image successfully.
+2024-11-12 14:32:11,108 - INFO - Invalid or empty question provided by the user.
+2024-11-12 14:32:23,417 - INFO - User uploaded an image successfully.
+2024-11-12 14:32:23,417 - INFO - User asked a question: Cual es el nombre de este plato?
+2024-11-12 14:32:23,420 - INFO - Image saved successfully at temporary location.
+2024-11-12 14:33:08,664 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:33:08,666 - INFO - Successfully received response from ollama model.
+2024-11-12 14:33:08,667 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:35:06,631 - INFO - No image uploaded by the user.
+2024-11-12 14:35:12,238 - INFO - User uploaded an image successfully.
+2024-11-12 14:35:12,239 - INFO - Invalid or empty question provided by the user.
+2024-11-12 14:35:15,724 - INFO - User uploaded an image successfully.
+2024-11-12 14:35:15,724 - INFO - User asked a question: How many shells?
+2024-11-12 14:35:15,726 - INFO - Image saved successfully at temporary location.
+2024-11-12 14:35:17,597 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:35:17,597 - INFO - Successfully received response from ollama model.
+2024-11-12 14:35:17,598 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:35:44,631 - INFO - No image uploaded by the user.
+2024-11-12 14:36:37,457 - INFO - No image uploaded by the user.
+2024-11-12 14:37:31,796 - INFO - No image uploaded by the user.
+2024-11-12 14:39:15,614 - INFO - No image uploaded by the user.
+2024-11-12 14:40:48,447 - INFO - No image uploaded by the user.
+2024-11-12 14:44:07,754 - INFO - No image uploaded by the user.
+2024-11-12 14:45:41,256 - INFO - No image uploaded by the user.
+2024-11-12 14:45:44,382 - INFO - User uploaded an image successfully.
+2024-11-12 14:45:44,382 - INFO - No question provided by the user.
+2024-11-12 14:45:50,258 - INFO - User uploaded an image successfully.
+2024-11-12 14:45:50,259 - INFO - User asked a question: How many shells?
+2024-11-12 14:45:50,261 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:46:31,755 - INFO - User uploaded an image successfully.
+2024-11-12 14:46:31,755 - INFO - User asked a question: How many shells?~
+2024-11-12 14:46:31,756 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:46:32,564 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:46:32,566 - INFO - Successfully received response from ollama model.
+2024-11-12 14:46:32,568 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:46:34,022 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:46:34,024 - INFO - Successfully received response from ollama model.
+2024-11-12 14:46:37,918 - INFO - User uploaded an image successfully.
+2024-11-12 14:46:37,919 - INFO - User asked a question: How many shells?~
+2024-11-12 14:46:37,919 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:46:38,619 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:46:38,620 - INFO - Successfully received response from ollama model.
+2024-11-12 14:46:38,620 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:47:27,763 - INFO - No image uploaded by the user.
+2024-11-12 14:47:31,334 - INFO - User uploaded an image successfully.
+2024-11-12 14:47:31,335 - INFO - No question provided by the user.
+2024-11-12 14:47:35,130 - INFO - User uploaded an image successfully.
+2024-11-12 14:47:35,130 - INFO - User asked a question: How many shells?
+2024-11-12 14:47:35,131 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:47:38,227 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:47:38,230 - INFO - Successfully received response from ollama model.
+2024-11-12 14:47:38,234 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:47:51,470 - INFO - User uploaded an image successfully.
+2024-11-12 14:47:51,470 - INFO - User asked a question: How many shells?
+2024-11-12 14:47:51,471 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:47:54,148 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:47:54,148 - INFO - Successfully received response from ollama model.
+2024-11-12 14:47:54,149 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:47:58,325 - INFO - User uploaded an image successfully.
+2024-11-12 14:47:58,325 - INFO - User asked a question: How many shells?
+2024-11-12 14:47:58,326 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:48:01,055 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:48:01,058 - INFO - Successfully received response from ollama model.
+2024-11-12 14:48:01,062 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:48:07,357 - INFO - No image uploaded by the user.
+2024-11-12 14:48:10,382 - INFO - User uploaded an image successfully.
+2024-11-12 14:48:10,382 - INFO - No question provided by the user.
+2024-11-12 14:48:18,707 - INFO - User uploaded an image successfully.
+2024-11-12 14:48:18,707 - INFO - User asked a question: Cuantas conchitas hay en el plato?
+2024-11-12 14:48:18,708 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:48:19,758 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:48:19,759 - INFO - Successfully received response from ollama model.
+2024-11-12 14:48:19,824 - INFO - Temporary image file deleted successfully.
+2024-11-12 14:48:27,866 - INFO - User uploaded an image successfully.
+2024-11-12 14:48:27,866 - INFO - User asked a question: Cuantas conchitas hay en el plato?
+2024-11-12 14:48:27,866 - INFO - Image saved successfully at /tmp/uploaded_dish.png.
+2024-11-12 14:48:30,623 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-12 14:48:30,623 - INFO - Successfully received response from ollama model.
+2024-11-12 14:48:30,624 - INFO - Temporary image file deleted successfully.
